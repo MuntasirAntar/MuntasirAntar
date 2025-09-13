@@ -23,7 +23,7 @@ Skills: / REACT / JS / HTML / CSS / C / C++
 
 <!-- Pop-up Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Pop-up Animation" width="150" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsAcwsR8eDzKR3iEeXT7y4qiCLQLdkHEv8ow&s" alt="Pop-up Animation" width="150" />
 </p>
 
 <!-- Connect with Me -->
