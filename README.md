@@ -21,15 +21,6 @@ Skills: / REACT / JS / HTML / CSS / C / C++
 - ⚡ Fun fact: I think I'm a good observer. 
 
 
-<!-- Greeting -->
-<h1 align="center">Hi there 👋, I'm MD Munrasir Mamun</h1>
-<h3 align="center">Web Developer | Software Developer</h3>
-
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://github.com/MuntasirAntar/MuntasirAntar/blob/main/IMG_0099.JPEG.jpg" alt="MD Munrasir Mamun" width="200" style="border-radius:50%;" />
-</p>
-
 <!-- Pop-up Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Pop-up Animation" width="150" />
