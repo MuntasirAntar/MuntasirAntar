@@ -2,14 +2,14 @@
   <img src="https://your-image-url.com/image.png" alt="Your alt text" width="700">
 </p>
 
-<h1 align="center">Hi there 👋, I'm [MD Muntasir Mamun]</h1>
+<h1 align="center">Hi there 👋, I'm MD Muntasir Mamun</h1>
 <h3 align="center">A passionate Web Developer | Software Developer.</h3>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/muntasir-antar-06976b280/)">
+  <a href="https://www.linkedin.com/in/muntasir-antar-06976b280/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="(https://x.com/MamunAntar)">
+  <a href="https://x.com/MamunAntar">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://sites.google.com/view/mmd-muntasir-mamun/home">
