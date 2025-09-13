@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://www.instagram.com/p/C2cJcYGBD4C/" alt="Your alt text" width="700">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/profile-pic.png" alt="Profile photo" width="400"/>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm MD Munrasir Mamun</h1>
 
