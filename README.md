@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm MD Munrasir Mamun</h1>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/mamunantar" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/mamunantar?logo=twitter&style=for-the-badge" alt="https://x.com/mamunantar" /></a> </p>
 
 - 🔭 I’m currently working on website **Portfolio**
 
