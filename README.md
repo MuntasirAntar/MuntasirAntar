@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/image.png" alt="Your alt text" width="700">
+  <img src="file:///D:/Downloads/Remove%20background%20project1.png" alt="Your alt text" width="700">
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Munrasir Mamun</h1>
