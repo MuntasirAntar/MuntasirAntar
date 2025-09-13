@@ -21,19 +21,34 @@ Skills: / REACT / JS / HTML / CSS / C / C++
 - ⚡ Fun fact: I think I'm a good observer. 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Greeting -->
+<h1 align="center">Hi there 👋, I'm MD Munrasir Mamun</h1>
+<h3 align="center">Web Developer | Software Developer</h3>
+
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://github.com/MuntasirAntar/MuntasirAntar/blob/main/IMG_0099.JPEG.jpg" alt="MD Munrasir Mamun" width="200" style="border-radius:50%;" />
+</p>
+
+<!-- Pop-up Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Pop-up Animation" width="150" />
+</p>
+
+<!-- Connect with Me -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://x.com/mamunantar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/muntasir-antar-06976b280/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/muntasir.antar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/muntasir_antar/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
