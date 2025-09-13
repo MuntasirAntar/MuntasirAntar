@@ -25,7 +25,6 @@ Skills: / REACT / JS / HTML / CSS / C / C++
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsAcwsR8eDzKR3iEeXT7y4qiCLQLdkHEv8ow&s" alt="Pop-up Animation" width="150" />
 </p>
-
 <!-- Connect with Me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
