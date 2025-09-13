@@ -1,6 +1,7 @@
 ### Hi there 👋, Hi 👋, I'm MD Munrasir Mamun
 #### Web Developer | Software Developer
-![Web Developer | Software Developer](https://drive.google.com/drive/folders/1K1E_4EkrbZEysEklS49tSwQ8De7el6xj?usp=sharing)
+![Web Developer | Software Developer](https://drive.google.com/uc?export=view&id=1K1E_4EkrbZEysEklS49tSwQ8De7el6xj)
+
 
 Hi, I’m a  passionate Software and Web Developer who loves turning ideas into reality through code. I specialize in building responsive websites, scalable applications, and clean user experiences.
 
